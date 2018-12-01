@@ -1,0 +1,8 @@
+AA,AA,‘SÁ‚µ‰Â,
+AA,BB,
+AA,AB,
+AA,BC,
+AB,AA,
+AB,CC,
+AB,AB,
+AB,AC,
